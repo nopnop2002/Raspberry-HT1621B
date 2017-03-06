@@ -1,6 +1,6 @@
 # HT1621B
 
-TS1612B Example Code for Raspberry Pi
+TS1612B Example Code for RaspberryPi/OrangePi/NanoPi
 
 ##TS206
 
