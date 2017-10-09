@@ -1,6 +1,6 @@
 # HT1621B
 
-HT1621B 32x4 LCD Controller Example Code for RaspberryPi/OrangePi/NanoPi
+HT1621B Segment LED Example Code for RaspberryPi/OrangePi/NanoPi
 
 ##TS206
 
