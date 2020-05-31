@@ -11,6 +11,8 @@ WiringPi Library
 |DATA|--|GPIO17(#11)|
 |RW|--|GPIO18(#12)|
 |CS|--|GPIO27(#13)|
+|VCC|--|5V|
+|GND|--|GND|
 
 # TS206
 cc -o ts206 ts206.c -lwiringPi
