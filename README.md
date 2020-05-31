@@ -5,6 +5,13 @@ HT1621B Segment LED Example Code for RaspberryPi/OrangePi/NanoPi
 # Software requiment
 WiringPi Library
 
+# Wireing
+|HT1621B||RaspberryPi||
+|:-:|:-:|:-:|:-:|
+|DATA|--|GPIO17(#11)||
+|RW|--|GPIO18(#12)||
+|CS|--|GPIO27(#13)||
+
 # TS206
 cc -o ts206 ts206.c -lwiringPi
 ![ts206-seg6](https://cloud.githubusercontent.com/assets/6020549/23609495/a4f7d5be-02b1-11e7-953a-e61938011230.JPG)
