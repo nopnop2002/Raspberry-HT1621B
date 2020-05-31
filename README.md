@@ -1,4 +1,4 @@
-# HT1621B
+# Raspberry-HT1621B
 
 HT1621B Segment LED Example Code for RaspberryPi/OrangePi/NanoPi
 
