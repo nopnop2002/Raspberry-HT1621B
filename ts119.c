@@ -5,11 +5,11 @@
 *  | | | | | | | | |8|
 *  +-+-+-+-+-+-+-+-+-+
 *
-*  Address 8 Character
+*  Address 8 is Character
 *   MD
 *   kWAh
 *
-*  Address 0-7 Dot Pattern
+*  Address 0 to 7 are Dot Pattern
 *
 *       a
 *       -

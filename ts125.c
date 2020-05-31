@@ -7,7 +7,9 @@
 *  | 8| 9|  |  |  |  |  |  |  |  |  |
 *  +--+--+--+--+--+--+--+--+--+--+--+
 *
-*  Address 0-10 Dot Pattern
+*  Address 11 and 12 is Character
+
+*  Address 0 to 10 are Dot Pattern
 *
 *       a
 *       -

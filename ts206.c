@@ -5,11 +5,11 @@
 *  | 0 |  |  |  |  |  |  |  |
 *  +-+-+--+--+--+--+--+--+--+
 *
-*  Address 0 Character
+*  Address 0 is Character
 *   KVArh
 *   KWh
 *
-*  Address 1-9 Dot Pattern
+*  Address 1 to 9 are Dot Pattern
 *
 *       a
 *       -
