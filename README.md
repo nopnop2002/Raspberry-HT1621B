@@ -1,9 +1,19 @@
 # Raspberry-HT1621B
 
-HT1621B Segment LED Example Code for RaspberryPi/OrangePi/NanoPi
+HT1621B Segment LED Example Code for RaspberryPi
 
-# Software requiment
-WiringPi Library
+I ported from [here](https://github.com/marc-gist/HT1621).
+
+
+# Software requiment   
+- WiringPi Library   
+ This project uses the wiringPiSetup() function to initialize GPIOs.   
+ If you use it on a board other than the RPI board, you may need to change the WiringPi number.   
+ As far as I know, there are these libraries.   
+	- WiringPi for OrangePi   
+	- WiringPi for BananaPi   
+	- WiringPi for NanoPi   
+	- WiringPi for Pine-64   
 
 # Wireing
 |HT1621B||RaspberryPi|
